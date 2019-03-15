@@ -56,73 +56,39 @@ career-profile:
       Second paragraph if required.
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: MS in Computer Science
+      university: Queensland University of Technology
+      time: 2008.02 - 2009.07
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
           - Bullet point
           - Bullet point
 
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: BS in Computer Science
+      university: Fu-Jen University
+      time: 2000.09 - 2004.06
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
           - Bullet point
           - Bullet point
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Senior SQL Server DBA
+      time: 2017.08 - 2018.12
+      company: Allychoice Global Limited
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+          - Bullet point
+          - Bullet point
 
+    - role: Senior MySQL DBA and ETL Designer
+      time: 2014.06 - 2017.06
+      company: Chungyo Information Group
+      details: |
           - Bullet point
           - Bullet point
 
     - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+      time: 2009.12 - 2014.05
+      company: HON HAI PRECISION IND.CO.,LTD.
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
-
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
           - Bullet point
           - Bullet point
 
@@ -178,22 +144,22 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: MySQL Database Administration
+        level: 90%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: SQL Server Database Administration
+        level: 80%
 
-      - name: Angular
+      - name: Python
         level: 98%
 
       - name: HTML5 & CSS
         level: 95%
 
-      - name: Ruby on Rails
+      - name: Hadoop
         level: 85%
 
-      - name: Sketch & Photoshop
+      - name: Spark
         level: 60%
 
 footer: >
